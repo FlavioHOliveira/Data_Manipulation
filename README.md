@@ -1,1 +1,1 @@
-# Manipula-o
+Data Manipulation with Python.
