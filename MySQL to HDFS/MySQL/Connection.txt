@@ -1,0 +1,3 @@
+Connect parameters:
+
+--connect jdbc:mysql://localhost:3306/adventureworks --username root -P
